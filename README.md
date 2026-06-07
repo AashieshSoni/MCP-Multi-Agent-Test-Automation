@@ -2,6 +2,7 @@
 MCP-Multi-Agent Test Automation : document provides an in-depth technical overview of the Automation framework's architecture, components, 
 
 ## Overview
+Modern QA Is Evolving with Playwright, AI Agents, and Intelligent Automation AI-native testing architectures — where frameworks like Playwright are combined with AI agents to create self-generating, self-healing and intelligent test systems. 
 Playwright framework combines the power of AI agents (powered by Claude) with Model Context Protocol (MCP) for browser automation to create an end-to-end intelligent test automation system playwright-ai agents.
 
 ✅ RoadMap Covered:
