@@ -1,9 +1,52 @@
 # MCP-Multi-Agent-Test-Automation
-MCP-Multi-Agent Test Automation
-## Overview
-Playwright framework combines the power of AI agents (powered by Claude) with Model Context Protocol (MCP) for browser automation to create an end-to-end intelligent test automation system playwright-ai-agents-ts
+MCP-Multi-Agent Test Automation : document provides an in-depth technical overview of the Automation framework's architecture, components, 
 
-What Makes It Unique?
+## Overview
+Playwright framework combines the power of AI agents (powered by Claude) with Model Context Protocol (MCP) for browser automation to create an end-to-end intelligent test automation system playwright-ai agents.
+
+✅ RoadMap Covered:
+•	UI Automation 
+•	REST API Testing 
+•	SOAP API Testing 
+•	Database Validation 
+•	Test Execution Report Analysis and Validation
+•	PDF Validation 
+
+________________________________________
+✅ Data-Driven Framework
+Externalized test data:
+•	Excel 
+•	CSV 
+•	JSON 
+
+Supports:
+•	Dynamic execution 
+•	Massive regression scaling 
+•	Minimal duplication 
+________________________________________
+✅ Enterprise Reporting
+Integrated:
+•	HTML Reports 
+•	Videos 
+•	Screenshots 
+•	Logs 
+________________________________________
+✅ CI/CD Ready
+Supports:
+•	Jenkins 
+•	Parallel execution 
+•	Environment-based execution 
+•	Runtime configuration 
+________________________________________
+✅ Enterprise Scalability
+Future-ready for:
+•	Docker 
+•	Kubernetes 
+•	Cloud execution 
+•	AI-driven QA 
+
+
+What Makes It Unique ?
 •	 Browser Automation with Playwright browser with MCP
 •	 Environment-Driven - Zero hardcoded values, all from environment variables
 •	 MCP Integration - Using Model Context Protocol SDK
@@ -57,6 +100,20 @@ Command	Description
 •	Anthropic API - Claude AI documentation
 •	Model Context Protocol - MCP specification
 •	Playwright - Browser automation docs
+
+
+**Test Generation Strategy**:
+- **Positive test cases**: Happy path scenarios
+- **Negative test cases**: Error conditions
+- **Edge cases**: Boundary conditions
+- **Security test cases**: Authentication, authorization
+- **Performance indicators**: Where applicable
+
+**Test Prioritization**:
+- HIGH: Critical business flows
+- MEDIUM: Important features
+- LOW: Edge cases and optional features
+
 
 
 
